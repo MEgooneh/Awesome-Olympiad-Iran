@@ -1,2 +1,49 @@
-# Awesome-Olympiad_Iran
-Awesome contents related to high-school Olympiads in Iran 
+# محتواهای مربوط به المپیادهای علمی در ایران
+
+- لیست المپیادها
+  - [تمام المپیادها](#عمومی)
+  - [ادبیات](#ادبیات)
+  - [جغرافیا](#جغرافیا)
+  - [ریاضی](#ریاضی)
+  - [زیست](#زیست)
+  - [سواد-رسانه‌ای](#سواد-رسانه‌ای)
+  - [شیمی](#شیمی)
+  - [فیزیک](#فیزیک)
+  - [نانو](#نانو)
+  - [نجوم](#نجوم)
+  - [کامپیوتر](#کامپیوتر)
+  
+## عمومی
+- [سایت ثبت نام](https://oly.medu.ir/)
+- [انتشارات خوشخوان](https://khoshkhan.ir/)
+- [انتشارات دانش پژوهان](http://irolympiad.com/)
+
+ 
+
+## ادبیات
+
+## جغرافیا
+
+## ریاضی
+- [سایت کمیته](http://www.mathysc.ir/)
+- [کانال آپارات کمیته](https://www.aparat.com/matholympiad)
+- [کانال تلگرام کمیته](https://t.me/Iran_Imo)
+
+## زیست
+
+## سواد-رسانه‌ای
+
+## شیمی
+
+## فیزیک
+
+## نانو
+
+## نجوم
+
+## کامپیوتر
+-[سایت کمیته](https://opedia.ir)
+-[سایت آزمون های مرحله ۳](http://codeshark.ir/)
+-[آموزش الگوریتم دوره تابستان](https://maktabkhooneh.org/course/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-mk311/)
+-[آموزش ترکیبیات دوره تابستان](https://maktabkhooneh.org/course/%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-mk344/)
+-[آموزش گراف دوره تابستان](https://maktabkhooneh.org/course/%DA%AF%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-mk312/)
